@@ -1,0 +1,12 @@
+<AnyConnectProfile xmlns="http://schemas.xmlsoap.org/encoding/">
+  <ClientInitialization>
+    <WindowsLogonEnforcement>SingleLocalLogon</WindowsLogonEnforcement>
+    <WindowsVPNEstablishment>AllowRemoteUsers</WindowsVPNEstablishment>
+  </ClientInitialization>
+  <ServerList>
+    <HostEntry>
+      <HostName>Whitehorse Toronto</HostName>
+      <HostAddress>toronto-wired-cpwtwdjpwp.dynamic-m.com</HostAddress>
+    </HostEntry>
+  </ServerList>
+</AnyConnectProfile>
